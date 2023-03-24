@@ -47,7 +47,7 @@
 
 ### Things I love:
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- Deep learning <img src="https://media.giphy.com/media/dUSkOT39uMA8S1xzh4/giphy.gif?cid=ecf05e47cmz3i1t6ga1mu1x5exmk5kqct6ihtnpbqqaxrgcn&rid=giphy.gif&ct=g" width="20"> 
+- Deep learning <img src="https://tenor.com/bU2p5.gif" width="20"> 
 
 <br>
 <br>
