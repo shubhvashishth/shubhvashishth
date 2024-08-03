@@ -6,7 +6,7 @@
 <h1 align="center">नमस्ते (Namaste)🙏🏻 I am Shubham Vashishth 👋</h1>
 <h3 align="center">A passionate Data Scientist,Machine Learning and Deep learning enthusiast.</h3>
 
-- 🌱 I’m currently learning **Computer vision 💻👁️**
+- 🌱 I’m currently learning **LLM(Large Language Models) 💻👁️**
 
 - 💬 Ask me about anything **I am happy to help 😄**
 
