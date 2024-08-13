@@ -4,7 +4,7 @@
 <br>
 
 <h1 align="center">नमस्ते (Namaste)🙏🏻 I am Shubham Vashishth 👋</h1>
-<h3 align="center">A passionate Data Scientist,Machine Learning and Deep learning enthusiast.</h3>
+<h3 align="center">A seasoned Data Scientist with ~2 years of industry expertise.</h3>
 
 - 🌱 I’m currently learning **LLM(Large Language Models) 💻👁️**
 
