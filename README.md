@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **LLM(Large Language Models) 💻👁️**
 
-- 💬 Ask me about anything **I am happy to help 😄**
+- 💬 Would love to collabrate on open source projects.
 
 - 📫 How to reach me **shubhamvas07@gmail.com**
 
